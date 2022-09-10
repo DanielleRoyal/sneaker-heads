@@ -25,3 +25,51 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+html{
+    background-image: url(https://media.voguebusiness.com/photos/60140c4680e198421a9ec8d1/master/pass/sneakers-sustainability-voguebus-janine-abrenilla-jan-21-promo.jpg);
+    background-size: contain;
+}
+h1{
+    color: rgb(255, 0, 212);
+    background-color: rgb(216, 211, 211);
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+    text-shadow: 3px 3px black;
+    font-size: 100px;
+    font-family: 'Calibri', sans-serif;
+    margin: 5px 20px;
+}
+#row1{
+    text-align: right;
+}
+#jordans-1-desc{
+    color: black;
+    background-color: rgb(216, 211, 211);
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+#jordans-2-desc{
+    color: black;
+    background-color: rgb(216, 211, 211);
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+img{
+    border: 5px solid rgb(250, 4, 217);
+    border-radius: 10px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 5px 5px black;
+   
+}
